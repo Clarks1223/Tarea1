@@ -32,4 +32,14 @@ public class llamada {
     public void setTotal(double total) {
         this.total = total;
     }
+    public void iniciarLlamada(){
+
+    }
+    public void terminarLlamada(){
+
+    }
+    public void pausarLlamada(){
+
+    }
+
 }
